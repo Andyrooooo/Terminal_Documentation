@@ -22,12 +22,16 @@ PS C:\Users\10919>
 `mkdir <folder name>`
 
 ### 3. **ls**
-#### This will show me what files or content is in the directory I am currently in.
+#### This will show me what files or content is in the directory I am currently in. It is also very self explanatory why it is important, because it allows you to know whe files are in there, and what if there is a file that you accidentally put in there or created by accident you can check using ls.
 ![ls](https://user-images.githubusercontent.com/97576252/213948278-75480107-485c-4c12-a04a-20aac201f637.jpg)
 It will also tell me the last time I made changes to it, what the file names are in there, and the mode.
 
-4. ****
+4. **clear** 
+#### clear is one of my favorites because I hate scrolling when using the terminal and seeing a bunch of text can also be distracting to what I need to do next. So, this one is very straight forward and you would just type clear and it will clear all previous commands and the outputs.
+![before](https://user-images.githubusercontent.com/97576252/213951638-8b12441b-8a64-4e32-8c84-bc1965ad3858.jpg) ![after](https://user-images.githubusercontent.com/97576252/213951731-a94f28ae-c17b-46cf-95ed-9c205b323093.jpg)
 
+5. **man**
+#### This one is also another useful one for me when your brain is scattered or you don't remember the command, you can use "man". hen you enter whatis followed by the command it will give you a short description of what it does in the output. 
 
 # What is the root?
 
