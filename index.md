@@ -5,7 +5,7 @@
 ![terminal](https://user-images.githubusercontent.com/97576252/213946641-d20a0caa-1e3b-46dd-8575-e3edf8843119.jpg)
 
 # For you, what are some important built-in commands to know. What do they do, and why are they important? (At least 5)
-#### 1. **cd** 
+### 1. **cd** 
 #### One you'll definitely end up using is cd (change directory). This one allows you to do what the acronym implies, which is changing your directory into another one. The way you would do this if you wanted to move up one directory and is referred to as the "parent directory"
 `cd ..` 
 Now if you just wanted to cut to the chase and go straight to the root directory where the OS is, you can use this
@@ -17,7 +17,7 @@ PS C:\> cd Users\10919
 PS C:\Users\10919>
 ````
 
-#### 2. **mkdir**
+### 2. **mkdir**
 #### This one can be useful for creating your dev projects as it allows you to create a new folder
 `mkdir <folder name>`
 
